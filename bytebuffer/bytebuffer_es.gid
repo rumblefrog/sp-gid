@@ -1,1 +1,1 @@
-{"functions":[],"methodmaps":[],"constants":[],"enums":[{"name":"Endianness","docStart":0,"docEnd":0,"docs":null,"entries":[{"name":"LittleEndian","docStart":0,"docEnd":0,"docs":null},{"name":"BigEndian","docStart":0,"docEnd":0,"docs":null}]}],"typesets":[],"typedefs":[]}
+{"functions":[],"methodmaps":[],"constants":[],"enums":[{"name":"Endianness","docStart":0,"docEnd":0,"docs":null,"entries":[{"name":"LittleEndian","docStart":0,"docEnd":0,"docs":null,"value":null},{"name":"BigEndian","docStart":0,"docEnd":0,"docs":null,"value":null}]}],"typesets":[],"typedefs":[]}
