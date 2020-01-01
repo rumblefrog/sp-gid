@@ -1,0 +1,1 @@
+{"functions":[{"name":"TTT_SetIcon","docStart":0,"docEnd":0,"docs":null,"kind":"native","returnType":"void","arguments":[{"type":"int","name":"client","decl":"int client","default":null},{"type":"int","name":"role","decl":"int role","default":null}]}],"methodmaps":[],"enumstructs":[],"constants":[],"enums":[],"typesets":[],"typedefs":[]}
